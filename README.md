@@ -7,6 +7,7 @@ ETL - API - TEST
 ==============================
 
 Project Organization
+
 ------------
 
 ├── README.md                 <- The top-level README for developers using this project.
@@ -45,8 +46,6 @@ Project Organization
 │   └── etl_logs.log          <- Log file for ETL process.
 │
 └── requirements.txt          <- File listing required Python packages for the project.
-         
---------
 
 ==============================
 
