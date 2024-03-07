@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 numpy
 pandas
 sqlalchemy
+=======
+numpy
+pandas
+sqlalchemy
+>>>>>>> 56b4b47a28e2b99ca1b2aaa706bf7dd62351bbcf
 flask
