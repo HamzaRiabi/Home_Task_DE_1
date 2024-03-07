@@ -9,7 +9,7 @@ ETL - API - TEST
 Project Organization
 
 ------------
-'''
+
 ├── README.md                 <- The top-level README for developers using this project.
 ├── data
 │   ├── external              <- Data from third-party sources.
@@ -46,7 +46,7 @@ Project Organization
 │   └── etl_logs.log          <- Log file for ETL process.
 │
 └── requirements.txt          <- File listing required Python packages for the project.
-'''
+
 ==============================
 
 Task 3: the system diagram is under the docs directory.
